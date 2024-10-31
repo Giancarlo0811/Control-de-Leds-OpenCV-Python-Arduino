@@ -1,5 +1,6 @@
 # Control-de-Leds-OpenCV-Python-Arduino
 Circuito con LEDs simple controlado mediante gestos con las manos usando python-OpenCv y Arduino.
+Demostración: https://youtube.com/shorts/k-IrpJlKAqU
 
 ## Software 
 - Python: versión 3.9.9
@@ -20,6 +21,6 @@ Circuito con LEDs simple controlado mediante gestos con las manos usando python-
 ![alt text](./Imagenes/diagrama.PNG)
 
 ## Esquemático
-Para descargar el video de demostración, hacer click en la imagen de abajo.
+Para ver la demostración, hacer click en la imagen de abajo.
 
-[![Watch the video](https://raw.githubusercontent.com/Giancarlo0811/Control-de-Leds-OpenCV-Python-Arduino/main/Imagenes/esquematico.jpg)](https://raw.githubusercontent.com/Giancarlo0811/Control-de-Leds-OpenCV-Python-Arduino/main/Video/demostracion.mp4)
+[<img src="./Imagenes/esquematico.jpg">](https://youtube.com/shorts/k-IrpJlKAqU)
