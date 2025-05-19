@@ -1,5 +1,5 @@
 # Control-de-Leds-OpenCV-Python-Arduino
-Circuito con LEDs simple controlado mediante gestos con las manos usando python-OpenCv y Arduino.
+Circuito para controlar el encendido/apagado de LEDs mediante gestos con la mano usando python-OpenCv y Arduino.
 
 🎬 **Demostración: [Video](https://youtube.com/shorts/k-IrpJlKAqU)**
 
