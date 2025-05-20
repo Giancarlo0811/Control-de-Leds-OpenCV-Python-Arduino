@@ -33,7 +33,7 @@ El reconocimiento de gestos permite a las computadoras interpretar el lenguaje c
 
 ![alt text](./Imagenes/esquematico.jpg)
 
-### ⚠️ Nota sobre el código
+## ⚠️ Nota sobre el código
 Este proyecto parte de un código base de python. 
 Los archivos pueden encontrarse en: https://drive.google.com/drive/folders/1lpK7rOpMgsS_1Y5xZwpXUH857NOpRDjX
 
